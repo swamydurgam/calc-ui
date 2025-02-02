@@ -1,0 +1,37 @@
+button{
+    height:20px ;
+    width:45px ;
+    box-shadow: 2px 3px 4px ;
+   padding: 16px;
+   border-radius: 9%;
+  
+
+}
+input{
+    width: 175x;
+    padding: 17px;
+    
+ 
+
+    background-color:rgb(64, 102, 224);
+}
+.md{
+    padding: 40px;
+    border: 2px solid;
+    width: 200px;
+    background-color:mediumpurple;
+    box-shadow: 2px 3px 4px 5px ;
+   
+    
+}
+
+button:active{
+    background-color: rgb(11, 11, 71);
+}
+ body{
+     background-color: rgb(143, 177, 177);
+ }
+
+ #md1{
+    padding: 4px;
+ }
